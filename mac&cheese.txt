@@ -1,0 +1,5 @@
+pasta
+chicken
+vegetables
+milk 
+cheese
